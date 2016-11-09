@@ -1,0 +1,29 @@
+Q.Why PAN Secure?
+Ans) PAN Secure is a one stop destination to store all your passwords of different domains. The passwords are encrypted so as to ensure security to the user. The user could also use the generate function to create strong passwords.
+
+Q.Where is my data stored on my computer?
+Ans) The data is not stored on your computer but on our servers in encrypted form so as to ensure your security. 
+
+Q.How do I change my master password?
+Ans) You could change your master password in the settings tab. It is advised to change your master password at least once in a month.
+
+Q.Is my master passwords and other passwords stored in the Database of PAN Secure?
+Ans) The master password of the user are hashed using the sha2 hashing methods and the passwords are encrypted by the AES encryption. The passwords could not be recovered by the databases and therefore not compromising the security of the user.
+
+Q.Does PAN Secure support two-factor authentication?
+Ans) Yes, PAN Secure supports 2-factor authentication. A SMS would be sent to your mobile when a login attempt is made. The user has to enter the OTP that has been sent to successfully login into the system.
+
+Q.Do I have the binary plugin installed?
+Ans) No, there is no need of any plugin for the system.
+
+Q.I forgot my Master Password or it's not working, how do I recover access to my account?
+Ans) You are advised to remember your master password and log in to your account. You would not be able to access your account without your master password.
+
+Q.How do I see if I have duplicate or weak passwords?
+Ans) You could generate a strong password using the Generate Button while accessing your passwords. User is advised to change his passwords regularly.
+
+Q.Can do I change my mobile number?
+Ans) You could change your mobile number in the setting tab.
+
+Q.What should I do if I have lost by mobile?
+Ans) You have to block your account by answering the security question correctly. Once the account is blocked it cannot be accessed by anyone.

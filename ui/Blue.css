@@ -1,0 +1,116 @@
+#panel
+{
+     padding: 15px;
+     background-image: url("b1.png");
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     display: none;
+}
+#pan
+{
+    padding: 15px;
+    display: none;
+}
+#pan1
+{
+    padding: 15px;
+    display: none;
+}
+#topdiv 
+{
+    width:99%;
+    height:12%;
+    background-image: url("b1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align:center;
+    color: #7E9FBF;
+	padding:3px;
+}
+#Track
+{
+     display: none;
+}
+#leftdiv
+{
+    line-height: 30px;
+    background-color: #EEEEEE;
+    height:80%;
+    width:13%;
+    float:left;
+    padding:5px;
+}
+#bottomdiv 
+{
+    width:99%;
+    height:3%;
+    background-color: #7E9FBF;
+    color: white;
+    clear:both;
+    text-align: center;
+    padding:5px;	 	 
+}
+.btn 
+{ 
+    display: inline;
+    border: 0px solid #000000;
+    font-family: Futura, Tahoma, sans-serif;
+    color: white;
+    padding: 25px;
+    border-radius: 1px 1px ;
+    background-color: #7E9FBF; 
+}
+.tbtn 
+{ 
+    display: inline;
+    border: 0px solid #000000;
+    font-family: Futura, Tahoma, sans-serif;
+    color: white;
+    padding: 15px;
+    border-radius: 1px 1px ;
+    background-color: #7E9FBF; 
+}
+.lbtn
+{ 
+    display: inline;
+    border: 0px solid #000000;
+    font-family: Futura, Tahoma, sans-serif;
+    color: white;
+    padding: 25px;
+    border-radius: 1px 1px ;
+    background-color: #7E9FBF;
+    width: 130px;
+    height: 80px;
+}
+.btn1
+{ 
+    display: inline;
+    border: 0px solid #000000;
+    font-family: Futura, Tahoma, sans-serif;
+    color: #7E9FBF;
+    padding: 25px;
+    border-radius: 1px 1px ;
+    background-color: white; 
+}
+a:link
+{
+    color:blue;
+    text-decoration: none;
+}
+a:visited
+{
+    color:blue;
+}
+.red
+{
+    color: #FF0000;
+}
+.uspass
+{
+     color: #7E9FBF;
+}
+.form
+{
+     color: #7E9FBF;
+     font-size: 25px;
+}
